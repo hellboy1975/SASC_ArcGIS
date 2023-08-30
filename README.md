@@ -1,4 +1,4 @@
-## Introductioin
+## Introduction
 
 This Git repository attempt so collect a range of code snippets used by the Kelly Hill Project
 team to manipulate Survex data (SVX) files, export them to KML data and then into ArcGIS Pro.
